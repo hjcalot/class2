@@ -24,3 +24,4 @@ if win==2:
     print(f"你赢了比赛")
 elif lose==2:
     print(f"你输了比赛")
+# fghfh
